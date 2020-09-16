@@ -36,7 +36,7 @@ This is the official QQ SDK for Analysys.
 通过以上步骤您即可验证SDK是否已经集成成功。更多接口说明请您查看 API 文档。
 
 
-更多Api使用方法参考：https://docs.analysys.cn/ark/integration/sdk/bytedance
+更多Api使用方法参考：https://docs.analysys.cn/ark/integration/sdk/qq-xiao-cheng-xu-sdk
 
 # 讨论
 * 微信号：nlfxwz
